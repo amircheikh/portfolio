@@ -14,6 +14,7 @@ import bunzelTownSC5 from './images/BunzelTown-SC5.png';
 import starsSC1 from './images/Stars-SC1.png';
 import starsSC2 from './images/Stars-SC2.png';
 import starsSC3 from './images/Stars-SC3.png';
+import starsSC4 from './images/Stars-SC4.png';
 
 export interface IProject {
   name: string;
@@ -26,7 +27,7 @@ export const projectsData: IProject[] = [
   {
     name: 'Next.js 3D Stars Portfolio',
     description: `A 3D personal portfolio website built from the ground up using Next.js and Three.js implementing custom sound effects and 3D animations. Anyone can clone my repo as a template and use it for their own personal website!`,
-    images: [starsSC1, starsSC2, starsSC3],
+    images: [starsSC1, starsSC2, starsSC3, starsSC4],
     links: [
       {
         icon: faGithub,

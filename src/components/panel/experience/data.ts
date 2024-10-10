@@ -17,11 +17,11 @@ export const experienceData: IExperience[] = [
     companyImage: nestLogo,
     date: 'Jan 2024 - Aug 2024',
     points: [
-      'Developed fullstack features using React Native for the frontend and Go/GraphQL for the backend',
-      'Enhanced user experience by adding animations and custom sound effects, gamifying key features',
-      'Improved app performance and stability by identifying and resolving critical issues',
+      'Implemented fullstack features using React Native for the frontend and Go/GraphQL for the backend',
+      'Developed an intricate questing system, increasing total user base by over 20,000 in under one week',
+      'Built a quick and intuitive trading terminal bringing thousands of dollars in daily swap volume',
+      'Spearheaded gamification of the user interface by designing and creating custom sound effects and animations for key features',
       'Created marketing videos for their Twitter, including 3D animations built with Blender',
-      'Collaborated with a remote team across Canada and the U.S., communicating daily via Slack and in morning standups',
     ],
   },
 
@@ -31,11 +31,9 @@ export const experienceData: IExperience[] = [
     companyImage: orandaLogo,
     date: 'Dec 2022 - Apr 2023',
     points: [
-      'Developed backend of their AI NFT generator product',
-      'Made the experience seamless with FastAPI',
-      'Worked heavily with Stable Diffusion image generation',
-      'Built the SQL database to store crucial data for the product',
-      'Worked with Google Cloud Compute to store files and host database',
+      'Spearheaded the development of the backend infrastructure for a cutting-edge AI-driven art platform, leveraging FastAPI, GCP, and AWS',
+      'Played a pivotal role in the frontend development efforts by creating a dynamic and user-friendly interface using React',
+      'Developed an innovative legal tool for a local real estate firm that transformed the traditional, cumbersome process of legal document navigation into a streamlined, AI-enhanced experience',
     ],
   },
 ];
